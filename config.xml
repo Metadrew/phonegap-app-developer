@@ -19,7 +19,7 @@
     <content src="index.html" />
      <platform name="windows">
     </platform>
-    <platform name="ios">
+    <platform name="ACKios">
         <preference name="Orientation" value="all" />
         <preference name="AutoHideSplashScreen" value="false" />
         <icon height="167" src="resources/icon/ios/icon-83.5@2x.png" width="167" />
